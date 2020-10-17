@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Les zones rouges </title>
+  </head>
+  <body>
+    
+<h1>Hello Web! :)</h1>
+<h5> Hey
+  
+</h5>
+
+<p>This is a second block of text!</p>
+
+<p>And here is a third one.</p>
+
+<p>This is a <em>second block</em> of text!</p>
+
+<p>And here is a <strong>third one</strong>.</p>
+  </body>
+
+<!-- An Unordered List -->
+<ul>
+    <li>Coffee</li>
+    <li>Tea</li>
+    <li>Milk</li>
+</ul>
+
+<!-- An Ordered List -->
+<ol>
+  <li>Coffee</li> 
+    <li>Tea</li>
+    <li>Milk</li>
+</ol>
+
+<ul type="square"> </ul>
+<ul type="circle"> </ul>
+<ul type="disc"> <!-- Default value --> </ul>
+
+<ol type="I"> <!-- Upper-Case Numerals --> </ol>
+<ol type="i"> <!-- Lower-Case Numerals --> </ol>
+  <ol type="A"> <!-- Upper-Case Letters --> </ol>
+  <ol type="a"> <!-- Lower-Case Letters --> </ol>
+  <ol type="1"> <!-- Default-Case Numerals --> </ol>
+
+<img src="https://resize-elle.ladmedia.fr/r/625,,forcex/crop/625,625,center-middle,forcex,ffffff/img/var/plain_site/storage/images/beaute/maquillage/astuces/voici-ce-qu-il-se-passe-lorsque-l-on-se-maquille-trop-3753517/89673912-1-fre-FR/Voici-ce-qu-il-se-passe-lorsque-l-on-se-maquille-trop.jpg" alt="My first image">
+
+<!-- This is a text anchor -->
+<p>
+  Here you can go to the <a href="about.html">About page</a>
+</p>
+
+<p>
+  
+We can link to other websites as well using their absolute url.<br>
+  For more info on anchors <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a">click here</a><br>
+  
+</p>
+  
+<!-- We can also put an anchor around any element, an image here -->
+<a target="_blank" href="http://makerslab.em-lyon.com/">
+  <img src="http://makerslab.em-lyon.com/media/logo.png">
+</a>
+
+<!-- This is an audio element -->
+<audio src="https://cdn.glitch.com/d91ea0b2-5a10-4843-8d6b-de7be7657640%2Fviper.mp3?1527865935132" controls="true"></audio>
+
+<br>
+
+<!-- This is a video element -->
+<video src="https://cdn.glitch.com/d91ea0b2-5a10-4843-8d6b-de7be7657640%2Frabbit320.mp4?1527865932541" width="200" height="200" controls="true"></video>
+
+</html>
